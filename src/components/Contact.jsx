@@ -3,7 +3,7 @@ import { Github, Linkedin } from "lucide-react";
 
 const Contact = () => {
   return (
-    <section id="contact" className="py-20 px-4">
+    <section id="contact" className="py-32 px-4 bg-white/50">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-4xl font-bold text-sky-900 mb-12 text-center">
           Contact Me
