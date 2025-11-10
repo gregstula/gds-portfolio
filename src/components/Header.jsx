@@ -29,7 +29,7 @@ const Header = ({ activeSection, scrollToSection }) => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-b border-sky-200/50 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <div className="text-xl font-bold text-sky-900">Greg Stula</div>
+          <div className="text-xl font-bold text-sky-900">Gregory D. Stula</div>
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-8">

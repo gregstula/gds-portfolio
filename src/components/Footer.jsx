@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-sky-900 py-8 px-4">
       <div className="max-w-4xl mx-auto text-center">
         <p className="text-sky-100">
-          © 2025 Greg Stula. Built with React and Tailwind CSS.
+          © 2025 Gregory D. Stula. Built with React and Tailwind CSS.
         </p>
         <div className="flex justify-center space-x-6 mt-4">
           <a
