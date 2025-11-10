@@ -18,8 +18,8 @@ const Projects = () => {
                 Quick Snake
               </h3>
               <p className="text-gray-700 mb-4">
-                A fast-paced terminal snake-like game that will test your
-                reflexes! Built with C++.
+                Fast-paced terminal snake game based on the classic Facebook game Snake 08.
+                Built with modern C++ and ncurses.
               </p>
               <div className="flex space-x-4">
                 <a
@@ -44,8 +44,8 @@ const Projects = () => {
                 CHIP-8 Emulator
               </h3>
               <p className="text-gray-700 mb-4">
-                A CHIP-8 emulator written in C++, implementing the classic
-                virtual machine architecture.
+                Multi-threaded CHIP-8 virtual machine emulator with hardware-accurate 60Hz timers.
+                Uses Qt 6 for windowing and SDL2 for sound/graphics.
               </p>
               <div className="flex space-x-4">
                 <a
@@ -70,8 +70,8 @@ const Projects = () => {
                 Unix Config
               </h3>
               <p className="text-gray-700 mb-4">
-                My Unix system configuration files and setup scripts for a new
-                system.
+                Comprehensive Arch Linux configuration suite including NeoVim setup, custom color schemes,
+                and utilities for secure boot installation on encrypted drives.
               </p>
               <div className="flex space-x-4">
                 <a
@@ -96,8 +96,8 @@ const Projects = () => {
                 Sudoku NCurses
               </h3>
               <p className="text-gray-700 mb-4">
-                A terminal-based Sudoku game built with C++ and NCurses for a
-                classic gaming experience.
+                Terminal-based Sudoku game with full puzzle generation and solving logic.
+                Built with C++ and NCurses for cross-platform terminal compatibility.
               </p>
               <div className="flex space-x-4">
                 <a

@@ -15,7 +15,7 @@ const Hero = ({ scrollToSection }) => {
           Greg Stula
         </h1>
         <p className="text-xl md:text-2xl text-gray-700 mb-8 max-w-2xl mx-auto">
-          Full Stack Developer & Software Engineer
+          Software Developer | Data Engineering | Systems Architecture
         </p>
         <button
           onClick={() => scrollToSection("about")}

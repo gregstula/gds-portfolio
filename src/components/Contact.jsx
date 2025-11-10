@@ -14,9 +14,9 @@ const Contact = () => {
               Get In Touch
             </h3>
             <p className="text-gray-700 mb-8">
-              I'm always interested in hearing about new opportunities and
-              exciting projects. Whether you have a question or just want to say
-              hi, feel free to reach out!
+              Open to discussing data engineering roles, technical challenges,
+              or collaboration on open source projects. You can reach me through
+              the form below or connect on GitHub and LinkedIn.
             </p>
             <div className="space-y-4">
               <div className="flex items-center space-x-4 text-gray-700">

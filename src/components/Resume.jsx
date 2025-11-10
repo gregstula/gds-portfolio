@@ -19,14 +19,25 @@ const Resume = () => {
                   Software Developer
                 </h4>
                 <p className="text-gray-600 mb-2">
-                  4V Services • March 2022 - Present
+                  Salute Medical Transportation • June 2025 - Present
                 </p>
                 <p className="text-gray-700">
-                  Implemented backend library functions in JavaScript and XQuery
-                  for entity mapping in Data Hub's Web UI. Developed custom
-                  mapping logic, worked on 50+ unit test suites, and
-                  collaborated across teams for data harmonization. Led code
-                  reviews and technical interviews.
+                  Developed mission-critical dispatch system processing daily ride assignments.
+                  Built comprehensive ETL pipeline with PowerShell and SQL Server for healthcare data integration.
+                  Developed interactive dashboards in JavaScript with advanced filtering, context menus, and modal interfaces.
+                </p>
+              </div>
+              <div className="bg-white/80 p-6 rounded-lg shadow-sm border border-sky-100">
+                <h4 className="text-xl font-semibold text-sky-700 mb-2">
+                  Software Developer
+                </h4>
+                <p className="text-gray-600 mb-2">
+                  4V Services • March 2022 - February 2025
+                </p>
+                <p className="text-gray-700">
+                  Shipped features for search product using MarkLogic, Node.js, and React.
+                  Built URL ingestion pipeline and React component library with data verification.
+                  Implemented custom backend mapping functions in JavaScript and XQuery for MarkLogic Data Hub.
                 </p>
               </div>
               <div className="bg-white/80 p-6 rounded-lg shadow-sm border border-sky-100">
@@ -76,8 +87,8 @@ const Resume = () => {
             </div>
             <div className="mt-8">
               <a
-                href="resume/GregoryDStula_Resume_2025.pdf"
-                download="GregoryDStula_Resume_2025.pdf"
+                href="resume/GregoryDStula_Resume_Latest.pdf"
+                download="GregoryDStula_Resume_Latest.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-sky-600 hover:bg-sky-700 text-white px-6 py-3 rounded-lg font-medium transition-colors flex items-center space-x-2 inline-block"

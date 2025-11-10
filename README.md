@@ -4,11 +4,11 @@ A personal portfolio built with [React](https://reactjs.org/), [Tailwind CSS](ht
 
 ## Features
 
-- 💻 Showcases GitHub projects
-- 📄 Resume section
-- 📝 Blogging-ready layout
-- ⚡ Fast build with Vite
-- 🎨 Styled with Tailwind CSS
+- Showcases GitHub projects
+- Resume section
+- Blogging-ready layout
+- Fast build with Vite
+- Styled with Tailwind CSS
 
 ## Getting Started
 

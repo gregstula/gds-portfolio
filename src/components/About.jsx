@@ -17,22 +17,26 @@ const About = () => {
           </div>
           <div className="text-gray-700 leading-relaxed">
             <p className="mb-6">
-              Welcome to my portfolio! I'm a passionate full-stack developer
-              with expertise in modern web technologies. I love creating
-              beautiful, functional applications that solve real-world problems.
+              I'm a software developer focused on building robust data engineering solutions
+              and scalable web applications. Currently working on mission-critical systems
+              that process thousands of daily transactions using SQL Server, JavaScript, and modern ETL pipelines.
             </p>
             <p className="mb-6">
-              My journey in software development has led me to work with React,
-              Node.js, Python, and various databases. I'm always eager to learn
-              new technologies and take on challenging projects.
+              My background spans from low-level systems programming in C++ to full-stack web development
+              with React and Node.js. I have experience with healthcare data integration,
+              real-time dashboards, and building developer tools that improve team productivity.
             </p>
             <div className="flex flex-wrap gap-3 mb-6">
               {[
-                "React",
                 "JavaScript",
+                "SQL Server",
                 "Python",
+                "C++",
+                "React",
                 "Node.js",
-                "Tailwind CSS",
+                "PowerShell",
+                "ETL Pipelines",
+                "MarkLogic",
                 "Git",
               ].map((skill) => (
                 <span
