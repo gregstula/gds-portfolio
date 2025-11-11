@@ -18,7 +18,7 @@ const About = () => {
           <div className="text-gray-700 leading-relaxed flex flex-col justify-center">
             <p className="mb-8 text-lg">
               I'm a software developer focused on building robust data engineering solutions
-              and scalable web applications. Currently working as full stack developer and building ride dispatch software for medical transpotation.
+              and scalable web applications. Currently working as full stack software engineer building ride dispatch software for medical transportation.
             </p>
             <p className="mb-8 text-lg">
               My background spans from low-level systems programming in C++ to full-stack web development
