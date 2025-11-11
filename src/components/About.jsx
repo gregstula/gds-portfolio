@@ -19,7 +19,7 @@ const About = () => {
             <p className="mb-8 text-lg">
               I'm a software developer focused on building robust data engineering solutions
               and scalable web applications. Currently working on mission-critical systems
-              that can process thousands of daily transactions using SQL Server, Node.js, and modern ETL pipelines.
+              that can process thousands of daily transactions using SQL Server, Node.js, and modern web technologies.
             </p>
             <p className="mb-8 text-lg">
               My background spans from low-level systems programming in C++ to full-stack web development
