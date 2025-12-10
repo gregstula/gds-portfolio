@@ -14,7 +14,7 @@ const Header = ({ activeSection, scrollToSection }) => {
 
   const menuItems = [
     { id: "about", label: "About Me", icon: User },
-    { id: "resume", label: "Resume/CV", icon: FileText },
+//    { id: "resume", label: "Resume/CV", icon: FileText },
     { id: "projects", label: "Projects", icon: Code },
     // { id: "solitaire", label: "Solitaire", icon: Gamepad2 },
     { id: "contact", label: "Contact Me", icon: MessageCircle },
