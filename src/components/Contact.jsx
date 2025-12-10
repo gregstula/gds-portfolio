@@ -1,5 +1,5 @@
 import React from "react";
-import { Github, Linkedin } from "lucide-react";
+import { Github /*, Linkedin */ } from "lucide-react";
 
 const Contact = () => {
   return (
@@ -16,17 +16,17 @@ const Contact = () => {
             <p className="text-gray-700 mb-8">
               Open to discussing data engineering roles, technical challenges,
               or collaboration on open source projects. You can reach me through
-              the form below or connect on GitHub and LinkedIn.
+              the form below or connect on GitHub{/* and LinkedIn */}.
             </p>
             <div className="space-y-4">
               <div className="flex items-center space-x-4 text-gray-700">
                 <Github className="text-sky-600" size={20} />
                 <span>github.com/gregstula</span>
               </div>
-              <div className="flex items-center space-x-4 text-gray-700">
+              {/* <div className="flex items-center space-x-4 text-gray-700">
                 <Linkedin className="text-sky-600" size={20} />
                 <span>linkedin.com/in/gregstula</span>
-              </div>
+              </div> */}
             </div>
           </div>
           <div>

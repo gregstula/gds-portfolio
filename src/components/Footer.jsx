@@ -1,5 +1,5 @@
 import React from "react";
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github /*, Linkedin */, Mail } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -17,14 +17,14 @@ const Footer = () => {
           >
             <Github size={24} />
           </a>
-          <a
+          {/* <a
             href="https://linkedin.com/in/gregstula"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-200 hover:text-white transition-colors"
           >
             <Linkedin size={24} />
-          </a>
+          </a> */}
         </div>
       </div>
     </footer>

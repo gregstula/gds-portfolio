@@ -1,5 +1,5 @@
 import React from "react";
-import { Github, Linkedin } from "lucide-react";
+import { Github /*, Linkedin */ } from "lucide-react";
 
 const Hero = ({ scrollToSection }) => {
   return (
@@ -27,14 +27,14 @@ const Hero = ({ scrollToSection }) => {
           >
             <Github size={28} />
           </a>
-          <a
+          {/* <a
             href="https://linkedin.com/in/gregstula"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-700 hover:text-gray-900 transition-colors"
           >
             <Linkedin size={28} />
-          </a>
+          </a> */}
         </div>
         <button
           onClick={() => scrollToSection("about")}
