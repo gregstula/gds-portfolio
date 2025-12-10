@@ -54,7 +54,7 @@ const Portfolio = () => {
       <Header activeSection={activeSection} scrollToSection={scrollToSection} />
       <Hero scrollToSection={scrollToSection} />
       <About />
-      <Resume />
+      {/* <Resume /> */ }
       <Projects />
       {/* <Solitaire /> */}
       <Contact />
